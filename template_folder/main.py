@@ -16,3 +16,5 @@ for msg in client.iter_messages(folder_name, limit=count):
     print("\n\n\n--------------------\n", msg.text)
 
 # Just write client.<method>() normally!
+
+

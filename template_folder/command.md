@@ -1,10 +1,10 @@
 
 # To run
 ```bash
-python -m template_folder.template
+python -m template_folder.main
 ```
 OR
 ```bash
-python template_folder/template.py
+python template_folder/main.py
 ```
 
