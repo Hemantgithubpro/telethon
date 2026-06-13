@@ -1,5 +1,5 @@
 import asyncio
-from telegram_client import client, ensure_started
+from template_folder.telegram_client import client, ensure_started
 
 
 async def main():

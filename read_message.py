@@ -1,5 +1,5 @@
 import asyncio
-from telegram_client import client, ensure_started
+from template_folder.telegram_client import client, ensure_started
 
 channel_username = "job4fresherss"  # Replace with the actual channel username
 
